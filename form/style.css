@@ -36,7 +36,14 @@ align-items: center;
   outline: 0;
 }
 .botao {
-  background-color: red;
+  background-color: rgba(0, 0, 0, 0.4);
   font-weight: 700;
   
+}
+.error {
+  font-size: 12px;
+  background-color: #FF0000;
+  color: #FFF;
+  padding: 4px;
+  border-radius: 3px;
 }
