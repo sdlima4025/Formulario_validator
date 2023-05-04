@@ -41,9 +41,13 @@ align-items: center;
   
 }
 .error {
-  font-size: 12px;
+  font-size: 14px;
   background-color: #FF0000;
   color: #FFF;
   padding: 4px;
   border-radius: 3px;
 }
+
+/* usar @media para tamanho mobile 
+
+*/
